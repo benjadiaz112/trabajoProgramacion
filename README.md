@@ -28,4 +28,4 @@ Librerías: scikit-learn, pandas, matplotlib
 
 Control de Versiones: Git & GitHub
 
-Metodología: GitHub Flow
+Metodología: GitHub Flow.
