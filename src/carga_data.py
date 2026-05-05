@@ -44,3 +44,4 @@ def preparar_datos():
 
 if __name__ == "__main__":
     preparar_datos()
+    #datos listos
